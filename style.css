@@ -1,0 +1,133 @@
+#Icon {
+    box-sizing: border-box;
+    float: left;
+}
+
+#head {
+    box-sizing: border-box;
+    border-bottom: 4px solid sandybrown;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading1 {
+    color: sandybrown;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+}
+
+.heading2 {
+    
+    color: aquamarine;
+    font-size: 30px;
+    text-shadow: 1px 1px aquamarine;
+}
+
+#empty1 {
+    height: 50px;
+}
+
+.headingcontent1 {
+    font-weight: 800;
+    font-size: 40px;
+}
+
+#container1 {
+    padding-left: 100px;
+    box-sizing: border-box;
+    width: 30%;
+    height: 1000px;
+    float: left;
+}
+
+#container2 {
+    padding-left: 100px;
+    box-sizing: border-box;
+    width: 30%;
+    height: 1000px;
+    float: left;
+    border-right: 4px solid sandybrown;
+}
+
+#container3 {
+    padding-left: 100px;
+    box-sizing: border-box;
+    width: 40%;
+    height: 1000px;
+    float: right;
+}
+
+.content1 {
+    font-size: 17px;
+}
+
+.content2 {
+    font-size: 17px;
+}
+
+.content3 {
+    font-size: 22px;
+}
+
+.name1  {
+    color: green;
+}
+
+a.name1:hover, a.name1:active {
+    color: sandybrown;
+}
+
+.name2  {
+    color: green;
+}
+
+a.name2:hover, a.name2:active {
+    color: sandybrown;
+}
+
+.name3  {
+    color: green;
+}
+
+a.name3:hover, a.name3:active {
+    color: sandybrown;
+}
+
+.name4  {
+    color: green;
+}
+
+a.name4:hover, a.name4:active {
+    color: sandybrown;
+}
+
+.name5  {
+    color: green;
+}
+
+a.name5:hover, a.name5:active {
+    color: sandybrown;
+}
+
+.name6  {
+    color: green;
+}
+
+a.name6:hover, a.name6:active {
+    color: sandybrown;
+}
+
+
+
+#empty2 {
+    box-sizing: border-box;
+    height: 1050px;
+    border-bottom: 4px solid sandybrown;
+}
+
+.footer {
+    font-size: 20px;
+    text-align: right;
+}
